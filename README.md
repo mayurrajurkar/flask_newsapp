@@ -1,3 +1,3 @@
 # flask_newsapp
 
-heroku link-
+heroku link- https://newsapp-mayur.herokuapp.com/
